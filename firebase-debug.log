@@ -1,0 +1,81 @@
+[debug] [2023-06-20T09:19:53.910Z] ----------------------------------------------------------------------
+[debug] [2023-06-20T09:19:53.912Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Mico Dan\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-20T09:19:53.912Z] CLI Version:   12.3.1
+[debug] [2023-06-20T09:19:53.913Z] Platform:      win32
+[debug] [2023-06-20T09:19:53.913Z] Node Version:  v18.13.0
+[debug] [2023-06-20T09:19:53.917Z] Time:          Tue Jun 20 2023 11:19:53 GMT+0200 (Central Africa Time)
+[debug] [2023-06-20T09:19:53.918Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-20T09:19:53.925Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-20T09:19:53.926Z] > authorizing via signed-in user (micodan369@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Mico Dan\Documents\J Portfolio\Mern stack\CODE\zoom_clone\zoom-clone
+
+[debug] [2023-06-20T09:20:06.516Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\Mico Dan\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-06-20T09:20:12.492Z] ----------------------------------------------------------------------
+[debug] [2023-06-20T09:20:12.495Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Mico Dan\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-20T09:20:12.496Z] CLI Version:   12.3.1
+[debug] [2023-06-20T09:20:12.497Z] Platform:      win32
+[debug] [2023-06-20T09:20:12.497Z] Node Version:  v18.13.0
+[debug] [2023-06-20T09:20:12.499Z] Time:          Tue Jun 20 2023 11:20:12 GMT+0200 (Central Africa Time)
+[debug] [2023-06-20T09:20:12.499Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-20T09:20:12.512Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-20T09:20:12.512Z] > authorizing via signed-in user (micodan369@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Mico Dan\Documents\J Portfolio\Mern stack\CODE\zoom_clone\zoom-clone
+
+[debug] [2023-06-20T09:20:24.270Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\Mico Dan\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-06-20T09:20:32.313Z] ----------------------------------------------------------------------
+[debug] [2023-06-20T09:20:32.315Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Mico Dan\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-20T09:20:32.315Z] CLI Version:   12.3.1
+[debug] [2023-06-20T09:20:32.316Z] Platform:      win32
+[debug] [2023-06-20T09:20:32.316Z] Node Version:  v18.13.0
+[debug] [2023-06-20T09:20:32.317Z] Time:          Tue Jun 20 2023 11:20:32 GMT+0200 (Central Africa Time)
+[debug] [2023-06-20T09:20:32.317Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-20T09:20:32.326Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-20T09:20:32.327Z] > authorizing via signed-in user (micodan369@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Mico Dan\Documents\J Portfolio\Mern stack\CODE\zoom_clone\zoom-clone
+
+[debug] [2023-06-20T09:20:46.466Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\Mico Dan\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.
